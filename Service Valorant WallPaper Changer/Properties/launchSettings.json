@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Service_Valorant_WallPaper_Changer": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

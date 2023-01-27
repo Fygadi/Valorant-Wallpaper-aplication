@@ -1,0 +1,4 @@
+C:\Users\victor\Documents\GitHub\C-Sharp\Valorant wallpaper application\Service Valorant WallPaper Changer\bin\Release\net7.0\publish\win-x64\appsettings.Development.json
+C:\Users\victor\Documents\GitHub\C-Sharp\Valorant wallpaper application\Service Valorant WallPaper Changer\bin\Release\net7.0\publish\win-x64\appsettings.json
+C:\Users\victor\Documents\GitHub\C-Sharp\Valorant wallpaper application\Service Valorant WallPaper Changer\bin\Release\net7.0\publish\win-x64\Service Valorant WallPaper Changer.pdb
+C:\Users\victor\Documents\GitHub\C-Sharp\Valorant wallpaper application\Service Valorant WallPaper Changer\bin\Release\net7.0\publish\win-x64\Service Valorant WallPaper Changer.exe
