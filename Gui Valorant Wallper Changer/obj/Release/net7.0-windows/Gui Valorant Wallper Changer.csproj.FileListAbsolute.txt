@@ -32,3 +32,20 @@ C:\Users\lelem\OneDrive\Documents\GitHub\Valorant wallpaper application\Gui Valo
 C:\Users\lelem\OneDrive\Documents\GitHub\Valorant wallpaper application\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\Gui Valorant Wallper Changer.pdb
 C:\Users\lelem\OneDrive\Documents\GitHub\Valorant wallpaper application\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\Gui Valorant Wallper Changer.genruntimeconfig.cache
 C:\Users\lelem\OneDrive\Documents\GitHub\Valorant wallpaper application\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\ref\Gui Valorant Wallper Changer.dll
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\bin\Release\net7.0-windows\Gui Valorant Wallper Changer.exe
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\bin\Release\net7.0-windows\Gui Valorant Wallper Changer.deps.json
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\bin\Release\net7.0-windows\Gui Valorant Wallper Changer.runtimeconfig.json
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\bin\Release\net7.0-windows\Gui Valorant Wallper Changer.dll
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\bin\Release\net7.0-windows\Gui Valorant Wallper Changer.pdb
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\Gui Valorant Wallper Changer.csproj.AssemblyReference.cache
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\Gui_Valorant_Wallper_Changer.Form1.resources
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\Gui Valorant Wallper Changer.csproj.GenerateResource.cache
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\Gui Valorant Wallper Changer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\Gui Valorant Wallper Changer.AssemblyInfoInputs.cache
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\Gui Valorant Wallper Changer.AssemblyInfo.cs
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\Gui Valorant Wallper Changer.csproj.CoreCompileInputs.cache
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\Gui Valorant Wallper Changer.dll
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\refint\Gui Valorant Wallper Changer.dll
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\Gui Valorant Wallper Changer.pdb
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\Gui Valorant Wallper Changer.genruntimeconfig.cache
+C:\Users\lelem\OneDrive\Documents\GitHub\Valorant-Wallpaper-aplication\Gui Valorant Wallper Changer\obj\Release\net7.0-windows\ref\Gui Valorant Wallper Changer.dll

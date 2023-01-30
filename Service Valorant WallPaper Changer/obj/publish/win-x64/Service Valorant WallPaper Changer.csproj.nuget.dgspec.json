@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant wallpaper application\\Service Valorant WallPaper Changer\\Service Valorant WallPaper Changer.csproj": {}
+    "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant-Wallpaper-aplication\\Service Valorant WallPaper Changer\\Service Valorant WallPaper Changer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant wallpaper application\\Service Valorant WallPaper Changer\\Service Valorant WallPaper Changer.csproj": {
+    "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant-Wallpaper-aplication\\Service Valorant WallPaper Changer\\Service Valorant WallPaper Changer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant wallpaper application\\Service Valorant WallPaper Changer\\Service Valorant WallPaper Changer.csproj",
+        "projectUniqueName": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant-Wallpaper-aplication\\Service Valorant WallPaper Changer\\Service Valorant WallPaper Changer.csproj",
         "projectName": "Service Valorant WallPaper Changer",
-        "projectPath": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant wallpaper application\\Service Valorant WallPaper Changer\\Service Valorant WallPaper Changer.csproj",
+        "projectPath": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant-Wallpaper-aplication\\Service Valorant WallPaper Changer\\Service Valorant WallPaper Changer.csproj",
         "packagesPath": "C:\\Users\\lelem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant wallpaper application\\Service Valorant WallPaper Changer\\obj\\publish\\win-x64\\",
+        "outputPath": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant-Wallpaper-aplication\\Service Valorant WallPaper Changer\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

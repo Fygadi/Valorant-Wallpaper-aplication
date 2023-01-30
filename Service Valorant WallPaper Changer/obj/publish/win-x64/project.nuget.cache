@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3dCiCFe6tnAcv9GKvaZtc7ByEl+M+CUKMApPTPAwbGWAIanB8mpNEGdkAZrr/eSuBGMKFl13jHfwkB+H74RQrA==",
+  "dgSpecHash": "2KEjYr1yW2V8STPGevrnO3BEu6eV3UrfleqaTLYJFdjNU1VsjQJ+MOZOaXILzV5D4X77eKVR1S9aCY4U1smDDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant wallpaper application\\Service Valorant WallPaper Changer\\Service Valorant WallPaper Changer.csproj",
+  "projectFilePath": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant-Wallpaper-aplication\\Service Valorant WallPaper Changer\\Service Valorant WallPaper Changer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lelem\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\lelem\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

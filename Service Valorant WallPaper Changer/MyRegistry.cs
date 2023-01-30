@@ -25,7 +25,7 @@ public static class MyRegistry
 	}
 
 	/// <summary>Get the the timer delay</summary>
-	/// <returns>In ms the delay selected or null if there's no delay"/></returns>
+	/// <returns>In ms the delay selected or 0 if there's no delay"/></returns>
 	public static int GetTimerDelay()
 	{
 		int timerDelay;

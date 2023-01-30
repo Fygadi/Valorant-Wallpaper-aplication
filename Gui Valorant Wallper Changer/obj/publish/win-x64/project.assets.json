@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant wallpaper application\\Gui Valorant Wallper Changer\\Gui Valorant Wallper Changer.csproj",
+      "projectUniqueName": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant-Wallpaper-aplication\\Gui Valorant Wallper Changer\\Gui Valorant Wallper Changer.csproj",
       "projectName": "Gui Valorant Wallper Changer",
-      "projectPath": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant wallpaper application\\Gui Valorant Wallper Changer\\Gui Valorant Wallper Changer.csproj",
+      "projectPath": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant-Wallpaper-aplication\\Gui Valorant Wallper Changer\\Gui Valorant Wallper Changer.csproj",
       "packagesPath": "C:\\Users\\lelem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant wallpaper application\\Gui Valorant Wallper Changer\\obj\\publish\\win-x64\\",
+      "outputPath": "C:\\Users\\lelem\\OneDrive\\Documents\\GitHub\\Valorant-Wallpaper-aplication\\Gui Valorant Wallper Changer\\obj\\publish\\win-x64\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

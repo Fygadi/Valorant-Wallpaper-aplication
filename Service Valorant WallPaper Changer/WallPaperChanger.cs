@@ -119,10 +119,10 @@ namespace Service_Valorant_WallPaper_Changer
 					Console.ForegroundColor = ConsoleColor.Cyan;
 					Console.Write(Path.GetFileNameWithoutExtension(selectedWallPaper));
 				}
-				catch
+				catch (Exception e)
 				{
 					Console.ForegroundColor = ConsoleColor.Red;
-					Console.Write("Exception when changing the wallpaper");
+					Console.Write("Exception when changing the wallpaper" + e.Message);
 				}
 				finally
 				{
@@ -152,7 +152,7 @@ namespace Service_Valorant_WallPaper_Changer
 		private string SelectRandomNewWallPaperFromFolder(string wallPaperDirectoryPath)
 		{
 			List<string> validFiles = new(Directory.GetFiles(wallPaperDirectoryPath, "*.mp4"));
-			string selectedFile = null;
+			string selectedFile = "";
 
 			//if there is any wallPaper to use
 			if (validFiles.Count != 0)
@@ -172,13 +172,19 @@ namespace Service_Valorant_WallPaper_Changer
 				Random r = new();
 				selectedFile = validFiles[r.Next(validFiles.Count)];
 
-				if (selectedFile != null)
+				if (selectedFile != "")
 				{
 					if (!alreadyUsedWallPaper.Contains(selectedFile))
 					{
 						alreadyUsedWallPaper.Add(selectedFile);
 					}
 				}
+			}
+			else
+			{
+				Console.ForegroundColor = ConsoleColor.DarkYellow;
+				Console.WriteLine("There is no WallPaper valid wallpaper in the selected directory");
+				Console.ForegroundColor = ConsoleColor.White;
 			}
 			return selectedFile;
 		}
